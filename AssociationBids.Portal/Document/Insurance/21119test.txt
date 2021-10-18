@@ -1,0 +1,12 @@
+verify that remote has all buttons or not 
+verify that remote has on/off button or not 
+verify that remote has led light or not 
+verify that remote has company label or not
+verify that remote has clear label with their functionality 
+verify that remote has particular coor or not 
+verify that button of remote is working or not 
+verify that on/off nd powerchill button has different color from other button 
+verify that all button has proper label alignment
+verify that remote display in center align or not
+verify that remote display showing proper information or not 
+verify that  

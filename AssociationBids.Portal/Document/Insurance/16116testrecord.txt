@@ -1,0 +1,19 @@
+test@test.com
+
+MOC
+ACT
+SCROM
+WBT
+DOC
+PRC
+CBT
+AudioVisual
+ILT
+CERT
+
+Item Type	Record Name
+evt		Test EVT 12345
+med		Test MED 123
+pte		Test PTE 123
+netg-wbt	Test NetG-WBT 123
+html-wbt	Test html-wbt 123
